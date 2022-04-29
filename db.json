@@ -2,45 +2,45 @@
   "products": [
       {
         "id": 1,
-        "nome": "Hambúrguer",
-        "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
-        "preco": 8.5,
-        "categoria_id": 1
+        "name": "Hambúrguer",
+        "description": "Pão, bife de hambúrguer 90g, salada e batata.",
+        "price": 8.5,
+        "catId": 1
       },
       {
         "id": 2,
-        "nome": "X-Búrguer",
-        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-        "preco": 10.5,
-        "categoria_id": 1
+        "name": "X-Búrguer",
+        "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
+        "price": 10.5,
+        "catId": 1
       },
       {
         "id": 3,
-        "nome": "X-Bacon",
-        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
-        "preco": 12.5,
-        "categoria_id": 1
+        "name": "X-Bacon",
+        "description": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
+        "price": 12.5,
+        "catId": 1
       },
       {
         "id": 4,
-        "nome": "X-Tudo",
-        "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
-        "preco": 14.5,
-        "categoria_id": 1
+        "name": "X-Tudo",
+        "description": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
+        "price": 14.5,
+        "catId": 1
       },
       {
         "id": 5,
-        "nome": "Coca cola 350ml",
-        "descricao": "",
-        "preco": 5.5,
-        "categoria_id": 2
+        "name": "Coca cola 350ml",
+        "description": "",
+        "price": 5.5,
+        "catId": 2
       },
       {
         "id": 6,
-        "nome": "Coca cola 600ml",
-        "descricao": "",
-        "preco": 7.5,
-        "categoria_id": 2
+        "name": "Coca cola 600ml",
+        "description": "",
+        "price": 7.5,
+        "catId": 2
       }
   ],
   "clients": {
